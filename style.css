@@ -1,0 +1,409 @@
+.resume-your-name {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .resume-your-name .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 595px;
+    height: 842px;
+    position: relative;
+  }
+  
+  .resume-your-name .skills-section {
+    position: absolute;
+    width: 249px;
+    height: 210px;
+    top: 590px;
+    left: 310px;
+  }
+  
+  .resume-your-name .section-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #0d6bc2;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .business-analysis-UX {
+    position: absolute;
+    width: 245px;
+    top: 28px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .resume-your-name .education-section {
+    position: absolute;
+    width: 260px;
+    height: 366px;
+    top: 200px;
+    left: 310px;
+  }
+  
+  .resume-your-name .education-content {
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    top: 32px;
+    left: 0;
+  }
+  
+  .resume-your-name .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-2 {
+    position: absolute;
+    width: 245px;
+    top: 20px;
+    left: 0;
+    font-family: var(--label-font-family);
+    font-weight: var(--label-font-weight);
+    color: #797979;
+    font-size: var(--label-font-size);
+    letter-spacing: var(--label-letter-spacing);
+    line-height: var(--label-line-height);
+    font-style: var(--label-font-style);
+  }
+  
+  .resume-your-name .education-content-2 {
+    position: absolute;
+    width: 249px;
+    height: 52px;
+    top: 100px;
+    left: 0;
+  }
+  
+  .resume-your-name .course-content {
+    position: absolute;
+    width: 249px;
+    height: 36px;
+    top: 222px;
+    left: 0;
+  }
+  
+  .resume-your-name .course-content-2 {
+    height: 36px;
+    top: 176px;
+    position: absolute;
+    width: 249px;
+    left: 0;
+  }
+  
+  .resume-your-name .course-content-3 {
+    height: 52px;
+    top: 268px;
+    position: absolute;
+    width: 249px;
+    left: 0;
+  }
+  
+  .resume-your-name .udacity-com-online {
+    position: absolute;
+    width: 245px;
+    top: 20px;
+    left: 0;
+    font-family: "Poppins-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #797979;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .resume-your-name .course-content-4 {
+    height: 36px;
+    top: 330px;
+    position: absolute;
+    width: 249px;
+    left: 0;
+  }
+  
+  .resume-your-name .work-experience {
+    position: absolute;
+    width: 256px;
+    height: 602px;
+    top: 200px;
+    left: 32px;
+  }
+  
+  .resume-your-name .work-experience-2 {
+    position: absolute;
+    width: 258px;
+    height: 100px;
+    top: 32px;
+    left: 0;
+  }
+  
+  .resume-your-name .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .p {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    font-family: var(--label-font-family);
+    font-weight: var(--label-font-weight);
+    color: #797979;
+    font-size: var(--label-font-size);
+    letter-spacing: var(--label-letter-spacing);
+    line-height: var(--label-line-height);
+    white-space: nowrap;
+    font-style: var(--label-font-style);
+  }
+  
+  .resume-your-name .designing-end-to-end {
+    position: absolute;
+    width: 254px;
+    height: 56px;
+    top: 44px;
+    left: 0;
+  }
+  
+  .resume-your-name .designing-end-to-end-2 {
+    position: absolute;
+    width: 254px;
+    top: -1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .resume-your-name .work-experience-3 {
+    height: 128px;
+    top: 156px;
+    position: absolute;
+    width: 260px;
+    left: 0;
+  }
+  
+  .resume-your-name .text-wrapper-4 {
+    position: absolute;
+    width: 254px;
+    top: 44px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .resume-your-name .work-experience-4 {
+    height: 142px;
+    top: 308px;
+    position: absolute;
+    width: 260px;
+    left: 0;
+  }
+  
+  .resume-your-name .work-experience-5 {
+    height: 128px;
+    top: 474px;
+    position: absolute;
+    width: 260px;
+    left: 0;
+  }
+  
+  .resume-your-name .header-section {
+    position: absolute;
+    width: 601px;
+    height: 188px;
+    top: 0;
+    left: 0;
+  }
+  
+  .resume-your-name .overlap-group {
+    position: relative;
+    width: 595px;
+    height: 188px;
+  }
+  
+  .resume-your-name .rectangle {
+    position: absolute;
+    width: 595px;
+    height: 176px;
+    top: 0;
+    left: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .resume-your-name .name {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .position {
+    position: absolute;
+    top: 66px;
+    left: 32px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #0d6bc2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .overview {
+    position: absolute;
+    width: 313px;
+    top: 104px;
+    left: 32px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .resume-your-name .contact-details {
+    position: absolute;
+    width: 182px;
+    height: 108px;
+    top: 40px;
+    left: 385px;
+  }
+  
+  .resume-your-name .linkedin-com-in {
+    position: absolute;
+    top: 54px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .span {
+    text-decoration: underline;
+  }
+  
+  .resume-your-name .text-wrapper-5 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .resume-your-name .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8b8b8b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-7 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8b8b8b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-8 {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8b8b8b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-9 {
+    position: absolute;
+    top: 14px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-10 {
+    position: absolute;
+    top: 94px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #222222;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
